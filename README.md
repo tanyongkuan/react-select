@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Live](https://https://yk-react-select.netlify.app/ 'Live View')
+- [Live](https://yk-react-select.netlify.app/ 'Live View')
 
 ## Built With
 
